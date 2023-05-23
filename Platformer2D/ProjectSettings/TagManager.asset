@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - playerBullet
+  - player
+  - enemyBullet
+  - enemy
+  - verevka
+  - bochka
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 439109567
+    locked: 0
+  - name: foreground
+    uniqueID: 3422544217
+    locked: 0
+  - name: player
+    uniqueID: 1117401693
+    locked: 0
+  - name: turrel_bullet
+    uniqueID: 937120311
+    locked: 0
+  - name: turrel
+    uniqueID: 3101817957
+    locked: 0
